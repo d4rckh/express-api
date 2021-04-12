@@ -1,0 +1,24 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "a small app written in expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4rckh/express-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4rckh/express-api/issues"
+  },
+  "homepage": "https://github.com/d4rckh/express-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ms": "^2.0.0"
+  }
+}
